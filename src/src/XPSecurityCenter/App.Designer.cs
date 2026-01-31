@@ -76,9 +76,7 @@
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(483, 30);
             this.label1.TabIndex = 4;
-            this.label1.Text = "Security Center helps you manage your Windows security settings. To help protect " +
-    "your computer, make sure the three security essentials are marked ON. If the set" +
-    "tings are not ON, follow the";
+            this.label1.Text = "actually fuck you";
             // 
             // label4
             // 
@@ -90,7 +88,7 @@
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(158, 23);
             this.label4.TabIndex = 9;
-            this.label4.Text = "Security essentials";
+            this.label4.Text = "I dont know what this means";
             // 
             // listView1
             // 
@@ -114,7 +112,7 @@
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(162, 28);
             this.label5.TabIndex = 12;
-            this.label5.Text = "Get the latest security and virus information from Microsoft";
+            this.label5.Text = "HUH???";
             this.label5.UseMnemonic = false;
             this.label5.Click += new System.EventHandler(this.label5_Click);
             // 
@@ -128,7 +126,7 @@
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(171, 28);
             this.label6.TabIndex = 13;
-            this.label6.Text = "Check for the latest updates from Windows Update";
+            this.label6.Text = "Stop.";
             this.label6.UseMnemonic = false;
             // 
             // label7
@@ -141,7 +139,7 @@
             this.label7.Name = "label7";
             this.label7.Size = new System.Drawing.Size(171, 28);
             this.label7.TabIndex = 14;
-            this.label7.Text = "Get support for security-related issues";
+            this.label7.Text = "Get support for a better PC";
             this.label7.UseMnemonic = false;
             this.label7.Click += new System.EventHandler(this.label7_Click);
             // 
@@ -155,7 +153,7 @@
             this.label8.Name = "label8";
             this.label8.Size = new System.Drawing.Size(171, 14);
             this.label8.TabIndex = 15;
-            this.label8.Text = "Get help about Security Center";
+            this.label8.Text = "Get help";
             this.label8.UseMnemonic = false;
             // 
             // label9
@@ -168,7 +166,7 @@
             this.label9.Name = "label9";
             this.label9.Size = new System.Drawing.Size(171, 28);
             this.label9.TabIndex = 16;
-            this.label9.Text = "Change the way Security Center alerts me";
+            this.label9.Text = "Change the way Security Center alerts me about my idiocy";
             this.label9.UseMnemonic = false;
             this.label9.Click += new System.EventHandler(this.label9_Click);
             // 
@@ -199,7 +197,7 @@
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(2000, 22);
             this.label2.TabIndex = 22;
-            this.label2.Text = " At Microsoft, we care about your privacy.  Please read our";
+            this.label2.Text = " At Microsoft, we really hate you.  Please read our";
             this.label2.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             // 
             // pictureBox4
@@ -276,7 +274,7 @@
             this.radioButton1.Name = "radioButton1";
             this.radioButton1.Size = new System.Drawing.Size(165, 32);
             this.radioButton1.TabIndex = 27;
-            this.radioButton1.Text = "Windows Firewall";
+            this.radioButton1.Text = "Windows Corruptor";
             this.radioButton1.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
             this.radioButton1.UseVisualStyleBackColor = true;
             this.radioButton1.Click += new System.EventHandler(this.radioButton1_Click);
@@ -299,7 +297,7 @@
             this.label11.Name = "label11";
             this.label11.Size = new System.Drawing.Size(472, 19);
             this.label11.TabIndex = 19;
-            this.label11.Text = "recommendations. To return to the Security Center later, open Control Panel.";
+            this.label11.Text = "Why are you here?";
             // 
             // label10
             // 
@@ -346,7 +344,7 @@
             this.linkLabel2.Size = new System.Drawing.Size(264, 13);
             this.linkLabel2.TabIndex = 20;
             this.linkLabel2.TabStop = true;
-            this.linkLabel2.Text = "What\'s new in Windows to help protect my computer?";
+            this.linkLabel2.Text = "What\'s new in Windows to help protect my computer? Nothing. Nothing at all.";
             // 
             // radioButton2
             // 
@@ -399,7 +397,7 @@
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(119, 23);
             this.button1.TabIndex = 32;
-            this.button1.Text = "Recommendations...";
+            this.button1.Text = "Fuck you...";
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
@@ -450,7 +448,7 @@
             this.Name = "App";
             this.RightToLeft = System.Windows.Forms.RightToLeft.No;
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Windows Security Center";
+            this.Text = "FUCK YOU";
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();

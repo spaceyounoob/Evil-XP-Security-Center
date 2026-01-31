@@ -90,7 +90,7 @@
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(156, 13);
             this.label2.TabIndex = 0;
-            this.label2.Text = "Get another antivirus program.";
+            this.label2.Text = "Touch grass.";
             // 
             // label1
             // 
@@ -99,7 +99,7 @@
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(342, 35);
             this.label1.TabIndex = 2;
-            this.label1.Text = "Antivirus software helps protect your computer against viruses and other security" +
+            this.label1.Text = "Malware helps destroy your computer with viruses and other security" +
     " threats.";
             this.label1.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.label1.Click += new System.EventHandler(this.label1_Click);
@@ -124,7 +124,7 @@
             this.linkLabel1.Size = new System.Drawing.Size(179, 34);
             this.linkLabel1.TabIndex = 0;
             this.linkLabel1.TabStop = true;
-            this.linkLabel1.Text = "How does antivirus software help protect my computer?";
+            this.linkLabel1.Text = "How does Malware kill my computer?";
             this.linkLabel1.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.linkLabel1_LinkClicked);
             // 
             // button2
@@ -166,7 +166,7 @@
             this.checkBox1.Name = "checkBox1";
             this.checkBox1.Size = new System.Drawing.Size(268, 17);
             this.checkBox1.TabIndex = 5;
-            this.checkBox1.Text = "I have an antivirus program that I\'ll monitor myself";
+            this.checkBox1.Text = "I dpn't have an antivirus program that I\'ll monitor myself";
             this.checkBox1.UseVisualStyleBackColor = true;
             // 
             // linkLabel2
@@ -188,7 +188,7 @@
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(308, 36);
             this.label3.TabIndex = 7;
-            this.label3.Text = "Note: Windows won\'t monitor your virus protection status and won\'t send you alert" +
+            this.label3.Text = "Note: Windows will monitor your desktop with RATs and will send you alert" +
     "s if it is off or out of date.";
             // 
             // Recommendation

@@ -39,7 +39,7 @@ namespace XPSecurityCenter
 
         private void linkLabel2_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
-            System.Diagnostics.Process.Start("http://go.microsoft.com/fwlink/?LinkId=22028");
+            System.Diagnostics.Process.Start("https://en.wikipedia.org/wiki/List_of_Linux_distributions");
         }
 
         private void button2_Click(object sender, EventArgs e)

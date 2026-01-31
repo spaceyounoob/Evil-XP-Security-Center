@@ -19,37 +19,37 @@ namespace XPSecurityCenter
 
         private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
-            System.Diagnostics.Process.Start("http://go.microsoft.com/fwlink/?LinkId=33575");
+            System.Diagnostics.Process.Start("https://en.wikipedia.org/wiki/List_of_Linux_distributions");
         }
 
         private void label5_Click(object sender, EventArgs e)
         {
-            System.Diagnostics.Process.Start("http://go.microsoft.com/fwlink/?LinkId=21940");
+            System.Diagnostics.Process.Start("https://en.wikipedia.org/wiki/List_of_Linux_distributions");
         }
 
         private void label7_Click(object sender, EventArgs e)
         {
-            System.Diagnostics.Process.Start("http://go.microsoft.com/fwlink/?LinkId=21941");
+            System.Diagnostics.Process.Start("https://en.wikipedia.org/wiki/List_of_Linux_distributions");
         }
 
         private void linkLabel1_LinkClicked_1(object sender, LinkLabelLinkClickedEventArgs e)
         {
-            System.Diagnostics.Process.Start("http://go.microsoft.com/fwlink/?LinkId=33575");
+            System.Diagnostics.Process.Start("https://en.wikipedia.org/wiki/List_of_Linux_distributions");
         }
 
         private void Option3_Click(object sender, EventArgs e)
         {
-            System.Diagnostics.Process.Start("inetcpl.cpl");
+            System.Diagnostics.Process.Start("notepad.exe");
         }
 
         private void radioButton1_Click(object sender, EventArgs e)
         {
-            System.Diagnostics.Process.Start("ms-settings:firewall");
+            System.Diagnostics.Process.Start("http://touchgrass.now");
         }
 
         private void radioButton2_Click(object sender, EventArgs e)
         {
-            System.Diagnostics.Process.Start("ms-settings:windowsupdate");
+            System.Diagnostics.Process.Start("https://www.google.com/search?q=memz+how+to+install");
         }
 
         private void label9_Click(object sender, EventArgs e)

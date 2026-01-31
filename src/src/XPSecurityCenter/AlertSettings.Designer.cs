@@ -63,9 +63,9 @@
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(75, 23);
             this.button1.TabIndex = 0;
-            this.button1.Text = "Cancel";
+            this.button1.Text = "How about, no.";
             this.button1.UseVisualStyleBackColor = true;
-            this.button1.Click += new System.EventHandler(this.button1_Click);
+           this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // panel1
             // 
@@ -113,7 +113,7 @@
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(308, 36);
             this.label2.TabIndex = 13;
-            this.label2.Text = "Alert me if my computer might be at risk because of my virus protection software " +
+            this.label2.Text = "Well, your computer IS at risk. " +
     "settings";
             // 
             // checkBox3
@@ -125,7 +125,7 @@
             this.checkBox3.Name = "checkBox3";
             this.checkBox3.Size = new System.Drawing.Size(101, 17);
             this.checkBox3.TabIndex = 12;
-            this.checkBox3.Text = "Virus Protection";
+            this.checkBox3.Text = "Shitty Protection";
             this.checkBox3.UseVisualStyleBackColor = true;
             // 
             // label1
@@ -136,7 +136,7 @@
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(326, 36);
             this.label1.TabIndex = 11;
-            this.label1.Text = "Alert me if my computer might be at risk because of my Automatic Updates settings" +
+            this.label1.Text = "You know what? Get out." +
     "";
             // 
             // checkBox2
@@ -150,7 +150,7 @@
             this.checkBox2.Name = "checkBox2";
             this.checkBox2.Size = new System.Drawing.Size(117, 17);
             this.checkBox2.TabIndex = 10;
-            this.checkBox2.Text = "Automatic Updates";
+            this.checkBox2.Text = "No Updates";
             this.checkBox2.UseVisualStyleBackColor = true;
             // 
             // label3
@@ -161,7 +161,7 @@
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(308, 36);
             this.label3.TabIndex = 9;
-            this.label3.Text = "Alert me if my computer might be at risk because of my firewall settings";
+            this.label3.Text = "Alert me if my computer might be at risk because of my stupidity";
             // 
             // checkBox1
             // 
@@ -174,7 +174,7 @@
             this.checkBox1.Name = "checkBox1";
             this.checkBox1.Size = new System.Drawing.Size(62, 17);
             this.checkBox1.TabIndex = 8;
-            this.checkBox1.Text = "Firewall";
+            this.checkBox1.Text = "Fire";
             this.checkBox1.UseVisualStyleBackColor = true;
             // 
             // panel2
